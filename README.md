@@ -1,7 +1,8 @@
 # Fast-llama-alpaca：一键部署中文LLaMA&Alpaca大语言模型
 
-本项目旨在对国内**[Chinese-LLaMA-Alpaca](https://link.zhihu.com/?target=https%3A//github.com/ymcui/Chinese-LLaMA-Alpaca)**开源项目的各个步骤进行整合优化，从而快速完成从原始LLaMA模型词表扩展、模型预训练和模型指令精调的整个过程。对各个步骤的详细解释可以参考https://zhuanlan.zhihu.com/p/631360711
-
+本项目旨在对国内**[Chinese-LLaMA-Alpaca](https://link.zhihu.com/?target=https%3A//github.com/ymcui/Chinese-LLaMA-Alpaca)**开源项目的各个步骤进行整合优化，从而快速完成从原始LLaMA模型词表扩展、模型预训练和模型指令精调的整个过程。对各个步骤的详细解释可以参考:
+- https://zhuanlan.zhihu.com/p/631360711
+- https://blog.csdn.net/weixin_44522477/article/details/135246760
 
 
 首先安装需要的依赖并拉取相关项目、下载LLaMA原始模型：
